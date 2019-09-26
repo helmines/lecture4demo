@@ -2,5 +2,3 @@ This is text file 1.
 
 Edit 1: testing a commit
 
-Hello IAT339 class 
-
